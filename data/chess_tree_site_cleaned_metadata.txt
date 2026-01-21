@@ -1,0 +1,23 @@
+## Field-collected attributes of trees sampled as part of the 2025 Colorado Headwaters Ecological Spectroscopy Study field campaign.			
+## This dataset represents individual trees visited in the field by the CHESS team in June and July 2025. Digital data was collected on tablet computers using iForm digital forms. Data has been QC'd by manual comparison to plot photos and other ancilliary data.			
+			
+Variable	Type	Unit	Explanation
+Location_Type	Categorical	None	Type of sample. Tree=woody plants more than 3m tall and belonging to a pre-defined species list.
+Sampling_Area	Categorical	None	Name of general area that samples were collected.
+Site_Number	Integer	None	"Unique identifier for each sample, corresponding to the number of the metal tag affixed to each tree."
+Collection_Date	Date	Days	"Calendar date of field data collection, DD/MM/YY format."
+Collection_Time	Time	Minutes	"Local time of field data collection (Mountain Daylight Time, America/Denver)."
+Vegetation_Species	Categorical	None	"Taxonomic species of sample, including family. References the ""Taxon_Label"" field in the ""chess_species_list_cleaned.csv"" dataset."
+Cones_Present	Logical	None	Were there reproductive structures observed on the focal tree? (Yes/No).
+Stem_Height	Numeric	Meters	Maximum height of photosynthetic vegetation. Measured in the field with a hypsometer.
+Stem_DBH	Numeric	Centimeter	Diameter at breast height (1.3m) recorded with a DBH tape.
+Crown_Class	Categorical	None	"Status of crown relative to the surrounding trees. D=Dominant, C=Codominant, I=Intermediate,S=Supressed."
+Health_Status	Categorical	None	"Stature of tree. S=Standing, L=Leaning"
+Damage_Mode	Text	None	Damage noted with mechanism.
+Trunk_Wound	Categorical	None	"Classification of observed wound severity. 0=none, 1=small wound, 2=medium wound, 3=large wound."
+Crown_Remaining	Numeric	Percentage	Proportion of original tree crown that was undamaged.
+Leaves_Remaining	Numeric	Percentage	Proportion of original tree leaves remaining in green state.
+Terrain_Aspect	Numeric	Degrees	"Direction of maximum slope, measured clockwise from North."
+Photo_Tag	Text	None	URL of tree tag photo.
+Photo_Tree	Text	None	URL of tree photo.
+Tree_Notes	Text	None	Notes from field data collection or data processing.

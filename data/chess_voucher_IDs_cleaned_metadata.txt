@@ -1,0 +1,16 @@
+## Voucher sample information for plants collected as part of the Colorado Headwaters Ecological Spectroscopy Study field campaign.			
+"## This table represents taxonomic determinations of field specimens collected for laboratory identification. These samples are stored in the herbarium of Rocky Mountain Biological Laboratory. A full species list with authority information is stored in a separate table (""chess_species_list_cleaned.csv:)."			
+			
+Variable	Type	Unit	Explanation
+Collected_date	Date	Days	"Date of field data collection, in DD/MM/YYYY format"
+Sample_label	Text	None	Identifer used to track voucher identity.
+Sampling_area	Categorical	None	Abbreviation for the sampling area where a specimen was collected.
+Site_number_or_spp	Integer	None	"Unique number for field site (meadow, shrub, or tree)."
+Entered_by	Categorical	None	"Initials of person who input the sample into this table. IKB=Ian Breckheimer, HX=Hillary Xu."
+Determination_date	Date	Days	"Date of last taxonomic determination, in DD/MM/YYYY format."
+Taxon_Species	Categorical	None	Taxonomic determination to the species level.
+Taxon_family			Taxonomic family.
+Taxon_label			Combined family-species name used to link to other datasets.
+Key			Key used to make the taxonomic determination.
+ID_by			"Initials of the person making the final ID. CFW = Rick Williams, HX = Hillary Xu, WG = Willow Goetting, WB = Wendy Brown"
+Notes			Notes on the identification.

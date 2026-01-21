@@ -1,0 +1,1895 @@
+Site_Number,Sampling_Area,Notes,Cover_Type,Cover_Class_Name,Cover_Percent
+1006,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,50
+1006,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,15
+1006,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,20
+1006,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1007,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,30
+1007,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,10
+1007,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,55
+1007,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,55
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,10
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Live Vegetation - Named Species,Asteraceae-Tetradymia canescens,10
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Other Cover Types,Nonvegetated Dirt ,15
+1008,ALMO: Almont Triangle South,"Cover for Tetradymia canescens inititally missing, filled from cover table photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1009,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,30
+1009,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,20
+1009,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1009,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,30
+1009,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,15
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,10
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,20
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Live Vegetation - Other Species,Other Graminoid ,5
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Other Cover Types,Nonvegetated Dirt ,40
+1010,ALMO: Almont Triangle South,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted NPV by 10% after reviewing photo",Other Cover Types,Non-Photosynthetic Vegetation,10
+1011,ALMO: Almont Triangle South,"Test plot, no bulk sample",Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,10
+1011,ALMO: Almont Triangle South,"Test plot, no bulk sample",Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,10
+1011,ALMO: Almont Triangle South,"Test plot, no bulk sample",Live Vegetation - Other Species,Other Forb ,5
+1011,ALMO: Almont Triangle South,"Test plot, no bulk sample",Other Cover Types,Nonvegetated Dirt ,55
+1011,ALMO: Almont Triangle South,"Test plot, no bulk sample",Other Cover Types,Nonvegetated Rock,20
+1012,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,55
+1012,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1012,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1012,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1012,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,15
+1012,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1013,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,20
+1013,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1013,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1013,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1013,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,15
+1013,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1014,ALMO: Almont Triangle South,We know the. Unknown but didnt have dropdown.  Balsamorrhiza sagittata,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1014,ALMO: Almont Triangle South,We know the. Unknown but didnt have dropdown.  Balsamorrhiza sagittata,Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,10
+1014,ALMO: Almont Triangle South,We know the. Unknown but didnt have dropdown.  Balsamorrhiza sagittata,Live Vegetation - Other Species,Other Forb ,15
+1014,ALMO: Almont Triangle South,We know the. Unknown but didnt have dropdown.  Balsamorrhiza sagittata,Other Cover Types,Nonvegetated Dirt ,50
+1014,ALMO: Almont Triangle South,We know the. Unknown but didnt have dropdown.  Balsamorrhiza sagittata,Other Cover Types,Non-Photosynthetic Vegetation,5
+1015,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,65
+1015,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1015,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1015,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,10
+1015,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1016,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Rosaceae-Amelanchier alnifolia,10
+1016,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Tetradymia canescens,20
+1016,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,10
+1016,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,10
+1016,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,35
+1016,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1017,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,20
+1017,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Tetradymia canescens,10
+1017,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1017,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,40
+1017,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,30
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,5
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Moss/Lichen,5
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,15
+1018,ALMO: Almont Triangle South,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,40
+1019,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,35
+1019,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1019,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,15
+1019,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,10
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,15
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,5
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,50
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Other Cover Types,Nonvegetated Rock,15
+1020,ALMO: Almont Triangle South,"low-NDVI outlier, adjusted known species down by 10% and boosted dirt by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1021,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,10
+1021,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,10
+1021,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,10
+1021,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1021,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,55
+1021,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Rock,5
+1021,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1022,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,65
+1022,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1022,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1022,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,10
+1022,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1023,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,15
+1023,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1023,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,15
+1023,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1023,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,20
+1023,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1024,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1024,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,20
+1024,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1024,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1024,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1024,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,30
+1024,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1025,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,70
+1025,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1025,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1025,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,15
+1025,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1026,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,15
+1026,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1026,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1026,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1026,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,10
+1026,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,30
+1026,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1027,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,20
+1027,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,20
+1027,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1027,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,5
+1027,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Rock,5
+1027,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1028,ALMO: Almont Triangle South,Voucher ID: 9017,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1028,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,20
+1028,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,70
+1029,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,55
+1029,ALMO: Almont Triangle South,Voucher ID: 9017,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1029,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,15
+1029,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,5
+1029,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1030,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Balsamorhiza sagittata,20
+1030,ALMO: Almont Triangle South,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus depressus,35
+1030,ALMO: Almont Triangle South,NA,Live Vegetation - Other Species,Other Forb ,5
+1030,ALMO: Almont Triangle South,NA,Other Cover Types,Nonvegetated Dirt ,35
+1030,ALMO: Almont Triangle South,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1031,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,15
+1031,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,35
+1031,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1031,ALMO: Almont Triangle North,Voucher ID: 9034,Live Vegetation - Named Species,Poaceae-Achnatherium hymenoides,10
+1031,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,10
+1031,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,5
+1031,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1032,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1032,ALMO: Almont Triangle North,Voucher ID: 9034,Live Vegetation - Named Species,Poaceae-Achnatherium hymenoides,10
+1032,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,15
+1032,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,60
+1033,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1033,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia frigida,10
+1033,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,5
+1033,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,65
+1033,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1034,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,65
+1034,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1034,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,5
+1034,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,10
+1034,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1035,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,35
+1035,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,10
+1035,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1035,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,5
+1035,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1036,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1036,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,35
+1036,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1036,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,5
+1036,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,10
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,30
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Live Vegetation - Other Species,Other Graminoid ,20
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Other Cover Types,Nonvegetated Dirt ,10
+1037,ALMO: Almont Triangle North,"cover initially missing for Erigeron speciousus, filled with 30% from diff between veg cover and species/FT cover.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1038,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1038,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1038,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1038,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1038,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1038,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,25
+1038,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1039,ALMO: Almont Triangle North,"Species/FT cover initially less than PV cover, added  5% other forb cover after reviewing plot photo.",Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1039,ALMO: Almont Triangle North,"Species/FT cover initially less than PV cover, added  5% other forb cover after reviewing plot photo.",Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,20
+1039,ALMO: Almont Triangle North,"Species/FT cover initially less than PV cover, added  5% other forb cover after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,25
+1039,ALMO: Almont Triangle North,"Species/FT cover initially less than PV cover, added  5% other forb cover after reviewing plot photo.",Other Cover Types,Nonvegetated Dirt ,15
+1039,ALMO: Almont Triangle North,"Species/FT cover initially less than PV cover, added  5% other forb cover after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1040,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Rosaceae-Purshia tridentata,50
+1040,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1040,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1041,ALMO: Almont Triangle North,"Species/FT cover initially summed to 95%, boosted other gram  by 5% after reviewing photo.",Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1041,ALMO: Almont Triangle North,"Species/FT cover initially summed to 95%, boosted other gram  by 5% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1041,ALMO: Almont Triangle North,"Species/FT cover initially summed to 95%, boosted other gram  by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,10
+1041,ALMO: Almont Triangle North,"Species/FT cover initially summed to 95%, boosted other gram  by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,55
+1041,ALMO: Almont Triangle North,"Species/FT cover initially summed to 95%, boosted other gram  by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,10
+1042,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,20
+1042,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1042,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,5
+1042,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1042,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,50
+1042,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1043,ALMO: Almont Triangle North,"Species/FT cover initially summed to more than PV cover, reduced known species by 5% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,80
+1043,ALMO: Almont Triangle North,"Species/FT cover initially summed to more than PV cover, reduced known species by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1043,ALMO: Almont Triangle North,"Species/FT cover initially summed to more than PV cover, reduced known species by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1044,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,10
+1044,ALMO: Almont Triangle North,Voucher ID: 9034,Live Vegetation - Named Species,Poaceae-Achnatherium hymenoides,10
+1044,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,10
+1044,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,55
+1044,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Rock,5
+1044,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1045,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1045,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,15
+1045,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,10
+1045,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1045,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,50
+1045,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1046,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1046,ALMO: Almont Triangle North,Voucher ID: 9034,Live Vegetation - Named Species,Poaceae-Achnatherium hymenoides,10
+1046,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,5
+1046,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1046,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,55
+1046,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Rock,5
+1046,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Live Vegetation - Named Species,Rosaceae-Purshia tridentata,30
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Live Vegetation - Other Species,Other Forb ,5
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Live Vegetation - Other Species,Other Graminoid ,5
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Other Cover Types,Nonvegetated Dirt ,20
+1047,ALMO: Almont Triangle North,"low-NDVI outlier, likely because of low veg cover just outside of plot. Reduced PV cover by 10% and boosted dirt and NPV by 5%",Other Cover Types,Non-Photosynthetic Vegetation,15
+1048,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,30
+1048,ALMO: Almont Triangle North,Voucher ID: 9034,Live Vegetation - Named Species,Poaceae-Achnatherium hymenoides,15
+1048,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,5
+1048,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1048,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,25
+1048,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1049,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,20
+1049,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Rubiaceae-Galium boreale,10
+1049,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,5
+1049,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,65
+1050,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,25
+1050,ALMO: Almont Triangle North,NA,Live Vegetation - Named Species,Polemoniaceae-Phlox multiflora,15
+1050,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Forb ,35
+1050,ALMO: Almont Triangle North,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1050,ALMO: Almont Triangle North,NA,Other Cover Types,Nonvegetated Dirt ,10
+1050,ALMO: Almont Triangle North,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1051,ALMO: Spring Creek,"Species/FT cover less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Rosaceae-Purshia tridentata,15
+1051,ALMO: Spring Creek,"Species/FT cover less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Rosaceae-Rosa woodsii,10
+1051,ALMO: Spring Creek,"Species/FT cover less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,10
+1051,ALMO: Spring Creek,"Species/FT cover less than PV cover, boosted other forb by 5% after reviewing plot photo.",Other Cover Types,Nonvegetated Dirt ,10
+1051,ALMO: Spring Creek,"Species/FT cover less than PV cover, boosted other forb by 5% after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,55
+1052,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,25
+1052,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Rosaceae-Rosa woodsii,10
+1052,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1052,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1052,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,40
+1052,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1053,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,35
+1053,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1053,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1053,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1053,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1054,ALMO: Spring Creek,Pacneo covered 15% but most was npv flowers,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,10
+1054,ALMO: Spring Creek,Pacneo covered 15% but most was npv flowers,Live Vegetation - Other Species,Other Forb ,5
+1054,ALMO: Spring Creek,Pacneo covered 15% but most was npv flowers,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1054,ALMO: Spring Creek,Pacneo covered 15% but most was npv flowers,Other Cover Types,Nonvegetated Dirt ,55
+1054,ALMO: Spring Creek,Pacneo covered 15% but most was npv flowers,Other Cover Types,Non-Photosynthetic Vegetation,25
+1055,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,55
+1055,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1055,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,25
+1055,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1056,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Rosaceae-Purshia tridentata,65
+1056,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1056,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,15
+1056,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1057,ALMO: Spring Creek,Voucher ID: 9032,Live Vegetation - Named Species,Rosaceae-Geum aleppicum,30
+1057,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1057,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,55
+1057,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Live Vegetation - Named Species,Rosaceae-Purshia tridentata,15
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Live Vegetation - Other Species,Other Forb ,5
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Live Vegetation - Other Species,Other Graminoid ,10
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Other Cover Types,Nonvegetated Dirt ,50
+1058,ALMO: Spring Creek,Erigeron speceosus boosted from 1% to 10% after reviewing cover table photo.,Other Cover Types,Non-Photosynthetic Vegetation,10
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,10
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Live Vegetation - Named Species,Rosaceae-Purshia tridentata,10
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Live Vegetation - Other Species,Other Forb ,5
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Other Cover Types,Nonvegetated Dirt ,15
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Other Cover Types,Nonvegetated Rock,10
+1059,ALMO: Spring Creek,"Purshia tridentata cover originally missing, filled with 10% from diff between PV and species/FT cover.",Other Cover Types,Non-Photosynthetic Vegetation,50
+1060,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,30
+1060,ALMO: Spring Creek,Voucher ID: 9031,Live Vegetation - Named Species,Poaceae-Unknown sp.,10
+1060,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1060,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Rock,45
+1060,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1061,ALMO: Spring Creek,"initially summed to 105%, reduced dirt by 5% after reviewing photo.",Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,25
+1061,ALMO: Spring Creek,Voucher ID: 9016,Live Vegetation - Named Species,Asteraceae-Solidago velutina,10
+1061,ALMO: Spring Creek,"initially summed to 105%, reduced dirt by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,5
+1061,ALMO: Spring Creek,"initially summed to 105%, reduced dirt by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,45
+1061,ALMO: Spring Creek,"initially summed to 105%, reduced dirt by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1062,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,55
+1062,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1062,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1062,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,25
+1062,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1063,ALMO: Spring Creek,"Species/FT cover initially less than PV cover, added missing 5% shrub cover after reviewing cover table photo.",Live Vegetation - Named Species,Asteraceae-Artemisia frigida,10
+1063,ALMO: Spring Creek,"Species/FT cover initially less than PV cover, added missing 5% shrub cover after reviewing cover table photo.",Live Vegetation - Named Species,Berberidaceae-Mahonia repens,20
+1063,ALMO: Spring Creek,"Species/FT cover initially less than PV cover, added missing 5% shrub cover after reviewing cover table photo.",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1063,ALMO: Spring Creek,"Species/FT cover initially less than PV cover, added missing 5% shrub cover after reviewing cover table photo.",Other Cover Types,Nonvegetated Dirt ,45
+1063,ALMO: Spring Creek,"Species/FT cover initially less than PV cover, added missing 5% shrub cover after reviewing cover table photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1064,ALMO: Spring Creek,"low-NDVI outlier, likely due to high ARTTRI cover and postion at edge of vegetation patch. Reduced PV cover by 15% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,75
+1064,ALMO: Spring Creek,"low-NDVI outlier, likely due to high ARTTRI cover and postion at edge of vegetation patch. Reduced PV cover by 15% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,10
+1064,ALMO: Spring Creek,"low-NDVI outlier, likely due to high ARTTRI cover and postion at edge of vegetation patch. Reduced PV cover by 15% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1065,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1065,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1065,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1065,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,55
+1065,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1066,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,25
+1066,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Rosaceae-Purshia tridentata,15
+1066,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1066,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,45
+1066,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Rock,5
+1066,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1067,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Rosaceae-Purshia tridentata,60
+1067,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1067,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1067,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1068,ALMO: Spring Creek,"Cover initially summed to 90%, boosted dirt cover by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia frigida,20
+1068,ALMO: Spring Creek,"Cover initially summed to 90%, boosted dirt cover by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,25
+1068,ALMO: Spring Creek,"Cover initially summed to 90%, boosted dirt cover by 10% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,30
+1068,ALMO: Spring Creek,"Cover initially summed to 90%, boosted dirt cover by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,25
+1069,ALMO: Spring Creek,NA,Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,55
+1069,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1069,ALMO: Spring Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1069,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1069,ALMO: Spring Creek,NA,Other Cover Types,Nonvegetated Rock,5
+1069,ALMO: Spring Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1070,ALMO: Spring Creek,"initally summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Named Species,Ericaceae-Arctostaphylos uva-ursi,50
+1070,ALMO: Spring Creek,"initally summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,25
+1070,ALMO: Spring Creek,"initally summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,25
+1071,ALMO: One Mile Upper,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,35
+1071,ALMO: One Mile Upper,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,20
+1071,ALMO: One Mile Upper,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,15
+1071,ALMO: One Mile Upper,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,30
+1072,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,25
+1072,ALMO: One Mile Upper,Voucher ID: 9015,Live Vegetation - Named Species,Poaceae-Festuca saximontana,20
+1072,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,30
+1072,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1072,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1072,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1073,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,10
+1073,ALMO: One Mile Upper,Voucher ID: 9015,Live Vegetation - Named Species,Poaceae-Festuca saximontana,10
+1073,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1073,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,50
+1073,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1074,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,25
+1074,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1074,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1074,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,25
+1074,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1075,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1075,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,20
+1075,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1075,ALMO: One Mile Upper,Voucher ID: 9015,Live Vegetation - Named Species,Poaceae-Festuca saximontana,15
+1075,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1075,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1076,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1076,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1076,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1076,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1076,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,40
+1076,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1077,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1077,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,30
+1077,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1077,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1077,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1078,ALMO: One Mile Upper,Voucher ID: 9015,Live Vegetation - Named Species,Poaceae-Festuca saximontana,30
+1078,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1078,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Poa pratensis,15
+1078,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1078,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1078,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1078,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1079,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,15
+1079,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Poa pratensis,15
+1079,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,25
+1079,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,10
+1079,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1080,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Poa pratensis,45
+1080,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,30
+1080,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1080,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1080,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1081,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1081,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,10
+1081,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1081,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1081,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1081,ALMO: One Mile Upper,NA,Other Cover Types,Nonvegetated Dirt ,55
+1081,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1082,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Agoseris glauca,10
+1082,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1082,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1082,ALMO: One Mile Upper,Voucher ID: 9015,Live Vegetation - Named Species,Poaceae-Festuca saximontana,10
+1082,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1082,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1082,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1083,ALMO: One Mile Upper,"Species/FT cover summed to less than PV cover, boosted other forb by 10% after reviewing species table photo.",Live Vegetation - Named Species,Poaceae-Festuca thurberi,40
+1083,ALMO: One Mile Upper,"Species/FT cover summed to less than PV cover, boosted other forb by 10% after reviewing species table photo.",Live Vegetation - Other Species,Other Forb ,25
+1083,ALMO: One Mile Upper,"Species/FT cover summed to less than PV cover, boosted other forb by 10% after reviewing species table photo.",Other Cover Types,Non-Photosynthetic Vegetation,35
+1084,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,40
+1084,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,30
+1084,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1085,ALMO: One Mile Upper,"NDVI outlier, boosted FESTHU cover and other forb by 5%, reducing soil by 10% after reviewing plot photo.",Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1085,ALMO: One Mile Upper,"NDVI outlier, boosted FESTHU cover and other forb by 5%, reducing soil by 10% after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,30
+1085,ALMO: One Mile Upper,"NDVI outlier, boosted FESTHU cover and other forb by 5%, reducing soil by 10% after reviewing plot photo.",Other Cover Types,Nonvegetated Dirt ,35
+1085,ALMO: One Mile Upper,"NDVI outlier, boosted FESTHU cover and other forb by 5%, reducing soil by 10% after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1086,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1086,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,25
+1086,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,55
+1087,ALMO: One Mile Upper,"Species/FT cover initially summed to more than PV cover, reduced other forb by 5%",Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1087,ALMO: One Mile Upper,"Species/FT cover initially summed to more than PV cover, reduced other forb by 5%",Live Vegetation - Named Species,Caprifoliaceae-Valeriana occidentalis,30
+1087,ALMO: One Mile Upper,"Species/FT cover initially summed to more than PV cover, reduced other forb by 5%",Live Vegetation - Other Species,Other Forb ,30
+1087,ALMO: One Mile Upper,"Species/FT cover initially summed to more than PV cover, reduced other forb by 5%",Live Vegetation - Other Species,Other Graminoid ,5
+1087,ALMO: One Mile Upper,"Species/FT cover initially summed to more than PV cover, reduced other forb by 5%",Other Cover Types,Non-Photosynthetic Vegetation,15
+1088,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,35
+1088,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,20
+1088,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1088,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1088,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1089,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Rosaceae-Geum triflorum,65
+1089,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Iridaceae-Iris missouriensis,10
+1089,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Asteraceae-Pyrrocoma crocea,10
+1089,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1089,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1090,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,15
+1090,ALMO: One Mile Upper,NA,Live Vegetation - Named Species,Poaceae-Poa pratensis,10
+1090,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Forb ,35
+1090,ALMO: One Mile Upper,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1090,ALMO: One Mile Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1091,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1091,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1091,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1091,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,70
+1091,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1092,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1092,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,15
+1092,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1092,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1092,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,50
+1092,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1093,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Bromus carinatus,10
+1093,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,15
+1093,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,10
+1093,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1093,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1093,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,25
+1093,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1093,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,5
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Live Vegetation - Other Species,Other Deciduous Shrub ,15
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,60
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Other Cover Types,Nonvegetated Rock,5
+1094,CRBU: Upper Upper,"initially summed to 105%, reduced NPV by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,10
+1095,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,45
+1095,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1095,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1095,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,20
+1095,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1096,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1096,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1096,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Bromus carinatus,10
+1096,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,35
+1096,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1097,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,50
+1097,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1097,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1097,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1098,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,10
+1098,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1098,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1098,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,70
+1098,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1099,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1099,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1099,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1099,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1099,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1099,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1100,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,15
+1100,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1100,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1100,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1100,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,10
+1100,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1100,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1100,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1101,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,10
+1101,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus bakeri,10
+1101,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1101,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1101,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1101,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,35
+1101,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,30
+1102,CRBU: Upper Upper,"initially species/ft cover summed greater than PV cover, boosted other forb by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1103,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,25
+1103,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1103,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1103,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1103,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1103,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,10
+1103,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1104,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1104,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,15
+1104,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1104,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,20
+1104,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1105,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1105,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1105,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1105,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1105,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,40
+1105,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1106,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1106,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus bakeri,25
+1106,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1106,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1106,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1106,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,40
+1106,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1107,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1107,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,10
+1107,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,10
+1107,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus bakeri,15
+1107,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,30
+1107,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1107,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1108,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Fabaceae-Lupinus bakeri,10
+1108,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1108,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1108,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,55
+1108,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1109,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,80
+1109,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1109,CRBU: Upper Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1109,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1110,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,25
+1110,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,20
+1110,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1110,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Poaceae-Bromus carinatus,10
+1110,CRBU: Upper Upper,NA,Live Vegetation - Named Species,Asteraceae-Chrysothamnus viscidiflorus,15
+1110,CRBU: Upper Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1110,CRBU: Upper Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1111,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1111,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1111,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,5
+1111,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,65
+1111,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,15
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,40
+1112,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,25
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,30
+1113,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,15
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Live Vegetation - Named Species,Rosaceae-Amelanchier alnifolia,15
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Live Vegetation - Other Species,Other Forb ,10
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Other Cover Types,Nonvegetated Dirt ,30
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Other Cover Types,Nonvegetated Rock,10
+1114,CRBU: Gothic Townsite Dry Meadow,"Species/FT cover initially summed to 5% more than PV cover, reduced other forb by 5%.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,15
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,30
+1115,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,15
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,10
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,40
+1116,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,15
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Caryophyllaceae-Eremogone congesta,10
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,10
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,40
+1117,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1118,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1118,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1118,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,45
+1118,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,30
+1118,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1119,CRBU: Gothic Townsite Dry Meadow,Voucher ID: 9013,Live Vegetation - Named Species,Poaceae-Achnatherum lettermanii,10
+1119,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1119,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,20
+1119,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,40
+1119,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1120,CRBU: Gothic Townsite Dry Meadow,Voucher ID: 9024,Live Vegetation - Named Species,Cyperaceae-Carex praticola,10
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia dracunculus,20
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,25
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,10
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Other Cover Types,Nonvegetated Rock,5
+1120,CRBU: Gothic Townsite Dry Meadow,"initially summed to 96%, boosted rock by 4% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,50
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,5
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,10
+1121,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,50
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,5
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,5
+1122,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1123,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,15
+1123,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,35
+1123,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1123,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,25
+1123,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,25
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Berberidaceae-Mahonia repens,20
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,15
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,15
+1124,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,20
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,5
+1125,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,35
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,10
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,5
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,5
+1126,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,30
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia dracunculus,15
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,10
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1127,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,5
+1128,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Live Vegetation - Named Species,Rosaceae-Amelanchier alnifolia,15
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Live Vegetation - Other Species,Other Forb ,10
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Other Cover Types,Nonvegetated Dirt ,10
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Other Cover Types,Nonvegetated Rock,20
+1129,CRBU: Gothic Townsite Dry Meadow,"low-NDVI outlier, likely due to low cover just outside of plot. Reduced PV cover by 10% and boosted soil and NPV by 5% after reviewing photo",Other Cover Types,Non-Photosynthetic Vegetation,20
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,20
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Forb ,15
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Dirt ,25
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Nonvegetated Rock,15
+1130,CRBU: Gothic Townsite Dry Meadow,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1131,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1131,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1131,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,10
+1131,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1131,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,50
+1131,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Rock,5
+1131,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1132,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1132,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1132,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1132,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1132,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,15
+1132,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1133,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1133,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,20
+1133,CRBU: Snodgrass,Voucher ID: 9030,Live Vegetation - Named Species,Cyperaceae-Carex hoodii,10
+1133,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,15
+1133,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1133,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,5
+1133,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1134,CRBU: Snodgrass,NPV lupine flower,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,60
+1134,CRBU: Snodgrass,NPV lupine flower,Live Vegetation - Other Species,Other Forb ,5
+1134,CRBU: Snodgrass,NPV lupine flower,Live Vegetation - Other Species,Other Graminoid ,5
+1134,CRBU: Snodgrass,NPV lupine flower,Other Cover Types,Non-Photosynthetic Vegetation,30
+1135,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,45
+1135,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,20
+1135,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1135,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,5
+1135,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1136,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Senecio serra,30
+1136,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1136,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,15
+1136,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1136,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,25
+1136,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Rock,5
+1136,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1137,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,50
+1137,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1137,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1137,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1137,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,15
+1137,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Live Vegetation - Other Species,Other Forb ,5
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Other Cover Types,Nonvegetated Dirt ,5
+1138,CRBU: Snodgrass,"NDVI outlier, boosted FESTHU cover by 10% and reduced NPV by 10% after reviewing plot photos.",Other Cover Types,Non-Photosynthetic Vegetation,50
+1139,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,10
+1139,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1139,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1139,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,15
+1139,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1139,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,10
+1139,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1140,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Osmorhiza occidentalis,35
+1140,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,25
+1140,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1140,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1140,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1140,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1141,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,40
+1141,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1141,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,20
+1141,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1142,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,50
+1142,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Osmorhiza occidentalis,30
+1142,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1142,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1142,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1143,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,30
+1143,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1143,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,10
+1143,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1143,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,10
+1143,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1144,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,80
+1144,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1144,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,10
+1145,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,15
+1145,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,15
+1145,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,10
+1145,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1145,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1145,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1145,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1146,CRBU: Snodgrass,"iform entry missing, cover reconstructed from drone image and bulk sample.",Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,80
+1146,CRBU: Snodgrass,"iform entry missing, cover reconstructed from drone image and bulk sample.",Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1146,CRBU: Snodgrass,"iform entry missing, cover reconstructed from drone image and bulk sample.",Live Vegetation - Other Species,Other Forb ,5
+1146,CRBU: Snodgrass,"iform entry missing, cover reconstructed from drone image and bulk sample.",Live Vegetation - Other Species,Other Graminoid ,5
+1147,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,20
+1147,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,10
+1147,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Linaceae-Linum lewisii,10
+1147,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,10
+1147,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1147,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,35
+1147,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1148,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,30
+1148,CRBU: Snodgrass,Voucher ID: 9018,Live Vegetation - Named Species,Cyperaceae-Carex praticola,20
+1148,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1148,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1148,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,25
+1148,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Rock,5
+1148,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1149,CRBU: Snodgrass,"initially summed to 110%, reduced dirt by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,30
+1149,CRBU: Snodgrass,Voucher ID: 9018,Live Vegetation - Named Species,Cyperaceae-Carex praticola,10
+1149,CRBU: Snodgrass,"initially summed to 110%, reduced dirt by 10% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1149,CRBU: Snodgrass,"initially summed to 110%, reduced dirt by 10% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,50
+1149,CRBU: Snodgrass,"initially summed to 110%, reduced dirt by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1150,CRBU: Snodgrass,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,30
+1150,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Forb ,5
+1150,CRBU: Snodgrass,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1150,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Dirt ,40
+1150,CRBU: Snodgrass,NA,Other Cover Types,Nonvegetated Rock,10
+1150,CRBU: Snodgrass,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1151,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1151,CRBU: Trail 403,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,20
+1151,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,10
+1151,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,40
+1151,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1152,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,15
+1152,CRBU: Trail 403,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,20
+1152,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,5
+1152,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,45
+1152,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,5
+1152,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1153,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,25
+1153,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1153,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,30
+1153,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,10
+1153,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1154,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,15
+1154,CRBU: Trail 403,NA,Live Vegetation - Named Species,Caryophyllaceae-Eremogone congesta,20
+1154,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1154,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,45
+1154,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,10
+1154,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1155,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1155,CRBU: Trail 403,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,15
+1155,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,65
+1155,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,5
+1155,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1156,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,25
+1156,CRBU: Trail 403,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1156,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,15
+1156,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1156,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,30
+1156,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,5
+1156,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1157,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,45
+1157,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1157,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,5
+1157,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1157,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,25
+1157,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1158,CRBU: Trail 403,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,45
+1158,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1158,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1158,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,5
+1158,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,30
+1159,CRBU: Trail 403,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,80
+1159,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,10
+1159,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1159,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1160,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,55
+1160,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1160,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,10
+1160,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,5
+1160,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1161,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,15
+1161,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,15
+1161,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,20
+1161,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1161,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,30
+1161,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Rock,10
+1161,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1162,CRBU: Trail 403,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,55
+1162,CRBU: Trail 403,NA,Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,20
+1162,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1162,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1163,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,20
+1163,CRBU: Trail 403,Voucher ID: 9014,Live Vegetation - Named Species,Asteraceae-Eucephalus engelmannii,35
+1163,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1163,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,15
+1163,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,10
+1163,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1164,CRBU: Trail 403,NA,Live Vegetation - Named Species,Apiaceae-Heracleum maximum,55
+1164,CRBU: Trail 403,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,25
+1164,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,10
+1164,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,5
+1164,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1165,CRBU: Trail 403,"Species/FT cover summed to less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Asteraceae-Senecio serra,40
+1165,CRBU: Trail 403,"Species/FT cover summed to less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,30
+1165,CRBU: Trail 403,"Species/FT cover summed to less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,15
+1165,CRBU: Trail 403,"Species/FT cover summed to less than PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,10
+1165,CRBU: Trail 403,"Species/FT cover summed to less than PV cover, boosted other forb by 5% after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1166,CRBU: Trail 403,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,60
+1166,CRBU: Trail 403,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,40
+1167,CRBU: Trail 403,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,25
+1167,CRBU: Trail 403,NA,Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,20
+1167,CRBU: Trail 403,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,10
+1167,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1167,CRBU: Trail 403,Voucher ID: 9014,Live Vegetation - Named Species,Asteraceae-Eucephalus engelmannii,15
+1167,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,5
+1167,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,15
+1168,CRBU: Trail 403,Voucher ID: 9012,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1168,CRBU: Trail 403,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,15
+1168,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,15
+1168,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1168,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1168,CRBU: Trail 403,NA,Live Vegetation - Other Species,Other Forb ,15
+1168,CRBU: Trail 403,NA,Other Cover Types,Nonvegetated Dirt ,10
+1168,CRBU: Trail 403,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1169,CRBU: Trail 403,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,85
+1169,CRBU: Trail 403,NA,Live Vegetation - Named Species,Asteraceae-Senecio serra,15
+1170,CRBU: Trail 403,"iform entry missing, cover reconstructed from drone image and bulk sample.",Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,100
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,10
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,10
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Other Cover Types,Nonvegetated Rock,15
+1171,CRBU: Slide Rock Road,"Species/FT cover summed to less than PV cover, reduced other forb by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,35
+1172,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Ericameria nauseosa,25
+1172,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,10
+1172,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1172,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,5
+1172,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1173,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,40
+1173,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1173,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,10
+1173,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1173,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,20
+1173,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1174,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1174,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,20
+1174,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,5
+1174,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,10
+1174,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Rock,10
+1174,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1175,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,20
+1175,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,15
+1175,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1175,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,10
+1175,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1176,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,30
+1176,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,15
+1176,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,15
+1176,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1176,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1177,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Caryophyllaceae-Eremogone congesta,30
+1177,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1177,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,15
+1177,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1177,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,5
+1177,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1178,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,25
+1178,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,15
+1178,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Fabaceae-Vicia americana,15
+1178,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,20
+1178,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1178,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1179,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,55
+1179,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1179,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,10
+1179,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1179,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1180,CRBU: Slide Rock Road,Voucher ID: 9011,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,75
+1180,CRBU: Slide Rock Road,Marshy,Live Vegetation - Other Species,Other Forb ,5
+1180,CRBU: Slide Rock Road,Marshy,Other Cover Types,Non-Photosynthetic Vegetation,20
+1181,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,35
+1181,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Orobanchaceae-Pedicularis groenlandica,15
+1181,CRBU: Slide Rock Road,Voucher ID: 9011,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,30
+1181,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Moss/Lichen,10
+1181,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1182,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,15
+1182,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Caryophyllaceae-Eremogone congesta,10
+1182,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,25
+1182,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1182,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,20
+1182,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1183,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,60
+1183,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,15
+1183,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1183,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1183,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,5
+1183,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1184,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,90
+1184,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,5
+1184,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1185,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,30
+1185,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,20
+1185,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,15
+1185,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1185,CRBU: Slide Rock Road,NA,Other Cover Types,Nonvegetated Dirt ,10
+1185,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1186,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Poaceae-Phleum pratense,90
+1186,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1187,CRBU: Slide Rock Road,Voucher ID: 9011,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,75
+1187,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,10
+1187,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Polygonaceae-Rumex densiflorus,10
+1187,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1188,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,80
+1188,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,10
+1188,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Forb ,5
+1188,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1189,CRBU: Slide Rock Road,"NDVI outlier, boosted DESCES cover by 15% and reduced NPV by 15% after reviewing plot photo.",Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,15
+1189,CRBU: Slide Rock Road,Voucher ID: 9003,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,60
+1189,CRBU: Slide Rock Road,"NDVI outlier, boosted DESCES cover by 15% and reduced NPV by 15% after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,5
+1189,CRBU: Slide Rock Road,"NDVI outlier, boosted DESCES cover by 15% and reduced NPV by 15% after reviewing plot photo.",Other Cover Types,Nonvegetated Dirt ,5
+1189,CRBU: Slide Rock Road,"NDVI outlier, boosted DESCES cover by 15% and reduced NPV by 15% after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1190,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,75
+1190,CRBU: Slide Rock Road,NA,Live Vegetation - Named Species,Crassulaceae-Rhodiola integrifolia,10
+1190,CRBU: Slide Rock Road,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1190,CRBU: Slide Rock Road,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1191,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,80
+1191,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1191,CRBU: South Baldy,NA,Live Vegetation - Named Species,Polygonaceae-Rumex densiflorus,10
+1192,CRBU: South Baldy,NA,Live Vegetation - Named Species,Crassulaceae-Rhodiola rhodantha,25
+1192,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,30
+1192,CRBU: South Baldy,NA,Live Vegetation - Named Species,Caprifoliaceae-Valeriana edulis,20
+1192,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1192,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1192,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1192,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1193,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,25
+1193,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,35
+1193,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1193,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,30
+1193,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1194,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Eucephalus engelmannii,65
+1194,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1194,CRBU: South Baldy,NA,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1194,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,15
+1195,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,20
+1195,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1195,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,15
+1195,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1195,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1195,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1195,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,30
+1195,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1196,CRBU: South Baldy,NA,Live Vegetation - Named Species,Ranunculaceae-Aquilegia coerulea,15
+1196,CRBU: South Baldy,NA,Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,20
+1196,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,10
+1196,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1196,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,35
+1196,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1197,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,25
+1197,CRBU: South Baldy,NA,Live Vegetation - Named Species,Caprifoliaceae-Valeriana edulis,20
+1197,CRBU: South Baldy,NA,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,30
+1197,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,10
+1197,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,10
+1197,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1198,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,25
+1198,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1198,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1198,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,40
+1198,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Rock,5
+1198,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1199,CRBU: South Baldy,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,35
+1199,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,15
+1199,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,10
+1199,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,10
+1199,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,30
+1200,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,15
+1200,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,10
+1200,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1200,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,60
+1200,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1201,CRBU: South Baldy,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,55
+1201,CRBU: South Baldy,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,10
+1201,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1201,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1201,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1201,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,15
+1201,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1202,CRBU: South Baldy,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,60
+1202,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1202,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1202,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Rock,10
+1202,CRBU: South Baldy,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1203,CRBU: South Baldy,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,65
+1203,CRBU: South Baldy,NA,Live Vegetation - Named Species,Papaveraceae-Corydalis caseana,15
+1203,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,10
+1203,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1203,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1204,CRBU: South Baldy,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,35
+1204,CRBU: South Baldy,NA,Live Vegetation - Named Species,Gentianaceae-Frasera speciosa,20
+1204,CRBU: South Baldy,NA,Live Vegetation - Named Species,Ranunculaceae-Aquilegia coerulea,10
+1204,CRBU: South Baldy,NA,Live Vegetation - Named Species,Crassulaceae-Rhodiola rhodantha,10
+1204,CRBU: South Baldy,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,10
+1204,CRBU: South Baldy,NA,Live Vegetation - Other Species,Other Forb ,5
+1204,CRBU: South Baldy,NA,Other Cover Types,Nonvegetated Dirt ,10
+1205,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,15
+1205,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1205,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1205,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1205,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1205,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,25
+1205,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,20
+1205,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1206,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,45
+1206,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,10
+1206,CRBU: Paradise Basin,Voucher ID: 9020,Live Vegetation - Named Species,Cyperaceae-Carex pachystachya,10
+1206,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,25
+1206,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1207,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,30
+1207,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ranunculaceae-Aquilegia coerulea,10
+1207,CRBU: Paradise Basin,Voucher ID: 9021,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1207,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,20
+1207,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,25
+1207,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1208,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1208,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,20
+1208,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1208,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1208,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,40
+1208,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,20
+1209,CRBU: Paradise Basin,Voucher ID: 9050,Live Vegetation - Named Species,Cyperaceae-Carex pachystachya,25
+1209,CRBU: Paradise Basin,"removed cover data for duplicate unknown (9051, 25%).",Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,30
+1209,CRBU: Paradise Basin,"removed cover data for duplicate unknown (9051, 25%).",Live Vegetation - Other Species,Other Forb ,10
+1209,CRBU: Paradise Basin,"removed cover data for duplicate unknown (9051, 25%).",Other Cover Types,Nonvegetated Dirt ,10
+1209,CRBU: Paradise Basin,"removed cover data for duplicate unknown (9051, 25%).",Other Cover Types,Non-Photosynthetic Vegetation,25
+1210,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1210,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,15
+1210,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1210,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1210,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,35
+1210,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,20
+1210,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1211,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,15
+1211,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,20
+1211,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,15
+1211,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1211,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,15
+1211,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,5
+1211,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1212,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Polygonaceae-Bistorta bistortoides,10
+1212,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,30
+1212,CRBU: Paradise Basin,Voucher ID: 9002,Live Vegetation - Named Species,Juncaceae-Juncus parryi,20
+1212,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1213,CRBU: Paradise Basin,Voucher ID: 9028,Live Vegetation - Named Species,Salicaceae-Salix glauca,40
+1213,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,15
+1213,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,15
+1213,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1213,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,5
+1213,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,5
+1213,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1214,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Orobanchaceae-Castilleja septentrionalis,15
+1214,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1214,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,20
+1214,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1214,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,10
+1214,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1215,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,10
+1215,CRBU: Paradise Basin,Voucher ID: 9002,Live Vegetation - Named Species,Juncaceae-Juncus parryi,20
+1215,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,60
+1215,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,10
+1216,CRBU: Paradise Basin,Voucher ID: 9019,Live Vegetation - Named Species,Juncaceae-Juncus parryi,50
+1216,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1216,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1216,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,5
+1216,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1217,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1217,CRBU: Paradise Basin,Voucher ID: 9002,Live Vegetation - Named Species,Juncaceae-Juncus parryi,10
+1217,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Arnica mollis,60
+1217,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,10
+1217,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,5
+1217,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1218,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,25
+1218,CRBU: Paradise Basin,Voucher ID: 9019,Live Vegetation - Named Species,Juncaceae-Juncus parryi,10
+1218,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1218,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1218,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1219,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,35
+1219,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Erigeron grandiflorus,10
+1219,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,20
+1219,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,15
+1219,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,10
+1219,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1220,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,35
+1220,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1220,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Moss/Lichen,20
+1220,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Rock,20
+1220,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1221,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,20
+1221,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Arnica mollis,40
+1221,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1221,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,25
+1221,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1222,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Polygonaceae-Bistorta bistortoides,30
+1222,CRBU: Paradise Basin,Voucher ID: 9029,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,20
+1222,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1222,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1223,CRBU: Paradise Basin,NA,Live Vegetation - Named Species,Asteraceae-Arnica mollis,35
+1223,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Forb ,35
+1223,CRBU: Paradise Basin,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1223,CRBU: Paradise Basin,NA,Other Cover Types,Nonvegetated Dirt ,5
+1223,CRBU: Paradise Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,25
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Live Vegetation - Named Species,Ranunculaceae-Aconitum columbianum,10
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,45
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Senecio triangularis,10
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Moss/Lichen,5
+1224,CRBU: Paradise Basin,"Species/FT cover initially greater than PV cover, reduced other forb and dominant species cover by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1225,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,15
+1225,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,15
+1225,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1225,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1225,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,30
+1225,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Rock,5
+1225,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1226,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,40
+1226,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1226,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1226,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1226,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1226,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,15
+1226,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1227,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,25
+1227,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1227,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1227,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1227,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1227,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,30
+1227,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Rock,10
+1227,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1228,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,25
+1228,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,25
+1228,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1228,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1228,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1228,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Senecio serra,15
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Rubiaceae-Galium boreale,10
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,10
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1229,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1229,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,30
+1229,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1230,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Senecio serra,40
+1230,CRBU: Carbon Creek,Voucher ID: 9009,Live Vegetation - Named Species,Cyperaceae-Carex praticola,10
+1230,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1230,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,10
+1230,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1231,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Helianthella quinquenervis,15
+1231,CRBU: Carbon Creek,Voucher ID: 9035,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1231,CRBU: Carbon Creek,Voucher ID: 9009,Live Vegetation - Named Species,Cyperaceae-Carex praticola,20
+1231,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1231,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,40
+1231,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1232,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Wyethia amplexicaulis,45
+1232,CRBU: Carbon Creek,Voucher ID: 9036,Live Vegetation - Named Species,Ericaceae-Vaccinium scoparium,10
+1232,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1232,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,25
+1232,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1233,CRBU: Carbon Creek,"Initially mislabeled 1230, missing species-level cover information.",Live Vegetation - Other Species,Other Forb ,30
+1233,CRBU: Carbon Creek,"Initially mislabeled 1230, missing species-level cover information.",Other Cover Types,Nonvegetated Dirt ,50
+1233,CRBU: Carbon Creek,"Initially mislabeled 1230, missing species-level cover information.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1234,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,25
+1234,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1234,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,45
+1234,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1235,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,20
+1235,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Polemoniaceae-Ipomopsis aggregata,10
+1235,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1235,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1235,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,30
+1235,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Rock,10
+1235,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1236,CRBU: Carbon Creek,Voucher ID: 9009,Live Vegetation - Named Species,Cyperaceae-Carex praticola,40
+1236,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1236,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1236,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1236,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1236,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1237,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Viburnaceae-Sambucus racemosa,35
+1237,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1237,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,10
+1237,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1237,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1237,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,15
+1237,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Rock,10
+1237,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1238,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Lamiaceae-Agastache urticifolia,35
+1238,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Heliomeris multiflora,10
+1238,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Fabaceae-Lathyrus lanszwertii,15
+1238,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1238,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1238,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,10
+1238,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,15
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Orobanchaceae-Castilleja septentrionalis,10
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Rubiaceae-Galium boreale,10
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,10
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1239,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1239,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Dirt ,15
+1239,CRBU: Carbon Creek,NA,Other Cover Types,Nonvegetated Rock,10
+1239,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1240,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,30
+1240,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,45
+1240,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Apiaceae-Heracleum maximum,10
+1240,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Caprifoliaceae-Symphoricarpos rotundifolius,10
+1240,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1241,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,90
+1241,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1241,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1242,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Senecio triangularis,60
+1242,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,20
+1242,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Apiaceae-Heracleum maximum,10
+1242,CRBU: Carbon Creek,Voucher ID: 9037,Live Vegetation - Named Species,Poaceae-Calamagrostis canadensis,10
+1243,CRBU: Carbon Creek,Voucher ID: 9027,Live Vegetation - Named Species,Cyperaceae-Carex utriculata,60
+1243,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1243,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1244,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,15
+1244,CRBU: Carbon Creek,NA,Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,10
+1244,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Forb ,35
+1244,CRBU: Carbon Creek,NA,Live Vegetation - Other Species,Other Graminoid ,30
+1244,CRBU: Carbon Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1245,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Senecio triangularis,50
+1245,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Boraginaceae-Mertensia ciliata,20
+1245,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Apiaceae-Heracleum maximum,30
+1246,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,40
+1246,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,45
+1246,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,10
+1246,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1247,CRBU: North Pole Basin,"Nvp is flowers. Species/FT cover initially summed to less than PV cover, boosted other forb by 5%.",Live Vegetation - Named Species,Boraginaceae-Mertensia ciliata,25
+1247,CRBU: North Pole Basin,"Nvp is flowers. Species/FT cover initially summed to less than PV cover, boosted other forb by 5%.",Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,20
+1247,CRBU: North Pole Basin,"Nvp is flowers. Species/FT cover initially summed to less than PV cover, boosted other forb by 5%.",Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,20
+1247,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,20
+1247,CRBU: North Pole Basin,"Nvp is flowers. Species/FT cover initially summed to less than PV cover, boosted other forb by 5%.",Live Vegetation - Other Species,Other Forb ,10
+1247,CRBU: North Pole Basin,"Nvp is flowers. Species/FT cover initially summed to less than PV cover, boosted other forb by 5%.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1248,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Apiaceae-Heracleum maximum,50
+1248,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,35
+1248,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,10
+1248,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1249,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,10
+1249,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Boraginaceae-Mertensia ciliata,90
+1250,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,20
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Live Vegetation - Other Species,Other Forb ,15
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Live Vegetation - Other Species,Other Graminoid ,20
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Live Vegetation - Other Species,Other Moss/Lichen,10
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Other Cover Types,Nonvegetated Dirt ,25
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Other Cover Types,Nonvegetated Rock,5
+1250,CRBU: North Pole Basin,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo. High-NDVI outlier, further boosted all veg categories by 5%, reduced non-veg categories.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1251,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Apiaceae-Ligusticum porteri,40
+1251,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Ranunculaceae-Delphinium barbeyi,20
+1251,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,15
+1251,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1251,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,10
+1251,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1252,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Erigeron elatior,10
+1252,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Melanthiaceae-Veratrum californicum,25
+1252,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1252,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,20
+1252,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Onagraceae-Chamaenerion angustifolium,10
+1252,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1252,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,10
+1252,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Rock,5
+1252,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1253,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,10
+1253,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1253,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1253,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,50
+1253,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Rock,15
+1253,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1254,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,25
+1254,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,15
+1254,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1254,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,25
+1254,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Rock,10
+1254,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1255,CRBU: North Pole Basin,"High-NDVI outlier, boosted PV cover and named species by 10% after reviewing photo.",Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,25
+1255,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,15
+1255,CRBU: North Pole Basin,"High-NDVI outlier, boosted PV cover and named species by 10% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,15
+1255,CRBU: North Pole Basin,"High-NDVI outlier, boosted PV cover and named species by 10% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,20
+1255,CRBU: North Pole Basin,"High-NDVI outlier, boosted PV cover and named species by 10% after reviewing photo.",Other Cover Types,Nonvegetated Rock,10
+1255,CRBU: North Pole Basin,"High-NDVI outlier, boosted PV cover and named species by 10% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1256,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Arnica mollis,60
+1256,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Erigeron glacialis,15
+1256,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,10
+1256,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1256,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Live Vegetation - Named Species,Ranunculaceae-Thalictrum fendleri,15
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Senecio crassulus,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,10
+1257,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Other Cover Types,Nonvegetated Rock,10
+1257,CRBU: North Pole Basin,"Initially mislabeled 1258, corrected 12/192025, initially summed to 90%, boosted rock and dirt by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1258,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,30
+1258,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,20
+1258,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1258,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1259,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Onagraceae-Chamaenerion angustifolium,40
+1259,CRBU: North Pole Basin,Voucher ID: 9004,Live Vegetation - Named Species,Poaceae-Bromopsis inermis,15
+1259,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,20
+1259,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1260,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1260,CRBU: North Pole Basin,Voucher ID: 9040,Live Vegetation - Named Species,Juncaceae-Juncus parryi,10
+1260,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,55
+1260,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1260,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Moss/Lichen,5
+1260,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1261,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,45
+1261,CRBU: North Pole Basin,NA,Live Vegetation - Named Species,Asteraceae-Erigeron grandiflorus,10
+1261,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,10
+1261,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1261,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Moss/Lichen,20
+1261,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1262,CRBU: North Pole Basin,Voucher ID: 9026,Live Vegetation - Named Species,Cyperaceae-Carex saxatilis,80
+1262,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Moss/Lichen,5
+1262,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1263,CRBU: North Pole Basin,Voucher ID: 9026,Live Vegetation - Named Species,Cyperaceae-Carex saxatilis,75
+1263,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Moss/Lichen,5
+1263,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1264,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Forb ,5
+1264,CRBU: North Pole Basin,NA,Live Vegetation - Other Species,Other Graminoid ,35
+1264,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Dirt ,50
+1264,CRBU: North Pole Basin,NA,Other Cover Types,Nonvegetated Rock,5
+1264,CRBU: North Pole Basin,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1265,CRBU: Schofield Park,Voucher ID: 9007,Live Vegetation - Named Species,Poaceae-Bromopsis ciliata,35
+1265,CRBU: Schofield Park,"initially summed to 90%, swapped NPV and dirt estimates, boosted both by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,5
+1265,CRBU: Schofield Park,"initially summed to 90%, swapped NPV and dirt estimates, boosted both by 5% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,50
+1265,CRBU: Schofield Park,"initially summed to 90%, swapped NPV and dirt estimates, boosted both by 5% after reviewing photo.",Other Cover Types,Nonvegetated Rock,5
+1265,CRBU: Schofield Park,"initially summed to 90%, swapped NPV and dirt estimates, boosted both by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1266,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,70
+1266,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,5
+1266,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,20
+1266,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1267,CRBU: Schofield Park,Voucher ID: 9008,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1267,CRBU: Schofield Park,Voucher ID: 9023,Live Vegetation - Named Species,Poaceae-Achnatherum lettermanii,10
+1267,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1267,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1267,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,40
+1267,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1268,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1268,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,10
+1268,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,5
+1268,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1268,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,60
+1268,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1268,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1269,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,35
+1269,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,10
+1269,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1269,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,30
+1269,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1269,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1270,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Hymenoxys hoopesii,30
+1270,CRBU: Schofield Park,Voucher ID: 9007,Live Vegetation - Named Species,Poaceae-Bromopsis ciliata,15
+1270,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1270,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1270,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,5
+1270,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,10
+1270,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1271,CRBU: Schofield Park,Voucher ID: 9007,Live Vegetation - Named Species,Poaceae-Bromopsis ciliata,10
+1271,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,15
+1271,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1271,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1271,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,30
+1271,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1271,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1272,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,70
+1272,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1272,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1272,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1273,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,45
+1273,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Heterotheca villosa,30
+1273,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,5
+1273,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1274,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,15
+1274,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,35
+1274,CRBU: Schofield Park,Voucher ID: 9008,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,10
+1274,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,20
+1274,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1274,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,10
+1274,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1275,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Fabaceae-Lupinus argenteus,70
+1275,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,10
+1275,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,10
+1275,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1276,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Erigeron glacialis,15
+1276,CRBU: Schofield Park,Voucher ID: 9041,Live Vegetation - Named Species,Poaceae-Calamagrostis canadensis,20
+1276,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1276,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1276,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Moss/Lichen,15
+1276,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1277,CRBU: Schofield Park,Voucher ID: 9008,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,70
+1277,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1277,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1277,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1278,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,15
+1278,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Erigeron glacialis,55
+1278,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1278,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1278,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,5
+1278,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Live Vegetation - Named Species,Asteraceae-Senecio crassulus,20
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Live Vegetation - Other Species,Other Forb ,5
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Live Vegetation - Other Species,Other Graminoid ,10
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Other Cover Types,Nonvegetated Dirt ,20
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Other Cover Types,Nonvegetated Rock,35
+1279,CRBU: Schofield Park,Plot photo is after 10% clip,Other Cover Types,Non-Photosynthetic Vegetation,10
+1280,CRBU: Schofield Park,Voucher ID: 9025,Live Vegetation - Named Species,Poaceae-Bromopsis sp.,95
+1280,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1281,CRBU: Schofield Park,Voucher ID: 9025,Live Vegetation - Named Species,Poaceae-Bromopsis sp.,70
+1281,CRBU: Schofield Park,"cover for unknown 9025 initially missing, filled 70% from difference between veg cover and species/FT cover.",Live Vegetation - Other Species,Other Forb ,5
+1281,CRBU: Schofield Park,"cover for unknown 9025 initially missing, filled 70% from difference between veg cover and species/FT cover.",Live Vegetation - Other Species,Other Graminoid ,5
+1281,CRBU: Schofield Park,"cover for unknown 9025 initially missing, filled 70% from difference between veg cover and species/FT cover.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1282,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,45
+1282,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Arnica parryi,10
+1282,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1282,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Moss/Lichen,10
+1282,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1282,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1283,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Polygonaceae-Bistorta bistortoides,15
+1283,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ranunculaceae-Aconitum columbianum,25
+1283,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Asteraceae-Erigeron glacialis,10
+1283,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,25
+1283,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1283,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Rock,5
+1283,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1284,CRBU: Schofield Park,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,75
+1284,CRBU: Schofield Park,NA,Live Vegetation - Other Species,Other Forb ,10
+1284,CRBU: Schofield Park,NA,Other Cover Types,Nonvegetated Dirt ,10
+1284,CRBU: Schofield Park,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1285,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,10
+1285,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Solidago simplex,15
+1285,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1285,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1285,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,65
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,25
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,10
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Live Vegetation - Other Species,Other Forb ,5
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Live Vegetation - Other Species,Other Graminoid ,10
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Other Cover Types,Nonvegetated Dirt ,5
+1286,UPTA: Trail Creek,"Spcies/FT cover summed to less than PV cover, boosted other gram by 5% after reviewing photo",Other Cover Types,Non-Photosynthetic Vegetation,40
+1287,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,30
+1287,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1287,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,60
+1288,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1288,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1288,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1288,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Moss/Lichen,5
+1288,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Rock,5
+1288,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,60
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,30
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,10
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Live Vegetation - Other Species,Other Forb ,15
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,10
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Other Cover Types,Nonvegetated Rock,15
+1289,UPTA: Trail Creek,"initially summed to 120% cover, reduced NPV and rock after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1290,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,15
+1290,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1290,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1290,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1290,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,70
+1291,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,15
+1291,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1291,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1291,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,70
+1292,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,30
+1292,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,15
+1292,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1292,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Dirt ,30
+1292,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Rock,5
+1292,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Live Vegetation - Named Species,Asteraceae-Artemisia cana,25
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Live Vegetation - Other Species,Other Forb ,10
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Live Vegetation - Other Species,Other Graminoid ,10
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Other Cover Types,Nonvegetated Dirt ,15
+1293,UPTA: Trail Creek,Replaced text unknown with correct taxon label.,Other Cover Types,Non-Photosynthetic Vegetation,35
+1294,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,55
+1294,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Rosaceae-Geum macrophyllum,10
+1294,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1294,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1295,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,60
+1295,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1295,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1295,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1296,UPTA: Trail Creek,"species/ft initially summed less than PV, boosted known species by 10% each and other gram by 5% after reviewing photo.",Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,25
+1296,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,40
+1296,UPTA: Trail Creek,"species/ft initially summed less than PV, boosted known species by 10% each and other gram by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,10
+1296,UPTA: Trail Creek,"species/ft initially summed less than PV, boosted known species by 10% each and other gram by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,25
+1297,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,35
+1297,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,10
+1297,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1297,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1298,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,15
+1298,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,35
+1298,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,5
+1298,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Succulent ,5
+1298,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1299,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,50
+1299,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1299,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1300,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,15
+1300,UPTA: Trail Creek,Voucher ID: 9053,Live Vegetation - Named Species,Cyperaceae-Carex sp.,40
+1300,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1301,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,15
+1301,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,30
+1301,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1301,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1302,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Antennaria parvifolia,45
+1302,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1302,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1302,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1302,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1303,UPTA: Trail Creek,Voucher ID: 9043,Live Vegetation - Named Species,Salicaceae-Salix wolfii,15
+1303,UPTA: Trail Creek,Voucher ID: 9042,Live Vegetation - Named Species,Juncaceae-Juncus arcticus,10
+1303,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,10
+1303,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1303,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1303,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,55
+1304,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Asteraceae-Artemisia campestris,15
+1304,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Linaceae-Linum lewisii,10
+1304,UPTA: Trail Creek,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1304,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Forb ,15
+1304,UPTA: Trail Creek,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1304,UPTA: Trail Creek,NA,Other Cover Types,Nonvegetated Dirt ,5
+1304,UPTA: Trail Creek,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1305,UPTA: Taylor River Road Lower,Voucher ID: 9052,Live Vegetation - Named Species,Poaceae-Elymus glaucus,10
+1305,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,20
+1305,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,15
+1305,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Geum triflorum,10
+1305,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,10
+1305,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1305,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Dirt ,5
+1305,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Rock,5
+1305,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1306,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,50
+1306,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,10
+1306,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1306,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1306,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Dirt ,15
+1306,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1307,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1307,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,15
+1307,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1307,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,20
+1307,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1307,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1308,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,25
+1308,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1308,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1308,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Dirt ,25
+1308,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,40
+1309,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,20
+1309,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Asteraceae-Artemisia tridentata,15
+1309,UPTA: Taylor River Road Lower,Voucher ID: 9052,Live Vegetation - Named Species,Poaceae-Elymus glaucus,25
+1309,UPTA: Taylor River Road Lower,Voucher ID: 9060,Live Vegetation - Named Species,Poaceae-Poa pratensis,30
+1309,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1309,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1310,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,30
+1310,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,10
+1310,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1310,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1310,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Dirt ,5
+1310,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,45
+1311,UPTA: Taylor River Road Lower,Voucher ID: 9039,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,40
+1311,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Geum triflorum,30
+1311,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Asteraceae-Solidago simplex,10
+1311,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,10
+1311,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1311,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1312,UPTA: Taylor River Road Lower,"Species/FT cover initially summed to greater than PV cover, reduced all named species by 5% after reviewing plot photos.",Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1312,UPTA: Taylor River Road Lower,"Species/FT cover initially summed to greater than PV cover, reduced all named species by 5% after reviewing plot photos.",Live Vegetation - Named Species,Asteraceae-Erigeron speciosus,20
+1312,UPTA: Taylor River Road Lower,Voucher ID: 9045,Live Vegetation - Named Species,Asteraceae-Erigeron formosissimus,20
+1312,UPTA: Taylor River Road Lower,Voucher ID: 9038,Live Vegetation - Named Species,Juncaceae-Juncus arcticus,25
+1312,UPTA: Taylor River Road Lower,Voucher ID: 9052,Live Vegetation - Named Species,Poaceae-Elymus glaucus,10
+1312,UPTA: Taylor River Road Lower,"Species/FT cover initially summed to greater than PV cover, reduced all named species by 5% after reviewing plot photos.",Live Vegetation - Other Species,Other Forb ,5
+1312,UPTA: Taylor River Road Lower,"Species/FT cover initially summed to greater than PV cover, reduced all named species by 5% after reviewing plot photos.",Other Cover Types,Non-Photosynthetic Vegetation,10
+1313,UPTA: Taylor River Road Lower,"Species/FT cover summed to more than PV cover, reduced other forb and other gram by 5% after reviewing plot photos.",Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1313,UPTA: Taylor River Road Lower,"Species/FT cover summed to more than PV cover, reduced other forb and other gram by 5% after reviewing plot photos.",Live Vegetation - Named Species,Asteraceae-Achillea millefolium,10
+1313,UPTA: Taylor River Road Lower,Voucher ID: 9039,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,65
+1313,UPTA: Taylor River Road Lower,"Species/FT cover summed to more than PV cover, reduced other forb and other gram by 5% after reviewing plot photos.",Live Vegetation - Other Species,Other Forb ,5
+1313,UPTA: Taylor River Road Lower,"Species/FT cover summed to more than PV cover, reduced other forb and other gram by 5% after reviewing plot photos.",Live Vegetation - Other Species,Other Graminoid ,10
+1314,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Geum triflorum,25
+1314,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1314,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,25
+1314,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,25
+1314,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,15
+1315,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Apiaceae-Cymopterus lemmonii,15
+1315,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Geum triflorum,40
+1315,UPTA: Taylor River Road Lower,Voucher ID: 9038,Live Vegetation - Named Species,Juncaceae-Juncus arcticus,10
+1315,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1315,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1315,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,15
+1315,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1316,UPTA: Taylor River Road Lower,Voucher ID: 9039,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,15
+1316,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,50
+1316,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,15
+1316,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,10
+1316,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1316,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1317,UPTA: Taylor River Road Lower,Voucher ID: 9055,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,20
+1317,UPTA: Taylor River Road Lower,Voucher ID: 9056,Live Vegetation - Named Species,Cyperaceae-Carex macloviana,15
+1317,UPTA: Taylor River Road Lower,"cover percentage for potentilla gracilis initially missing, filled with 15% difference between PV cover and species/ft.",Live Vegetation - Named Species,Rosaceae-Potentilla gracilis,15
+1317,UPTA: Taylor River Road Lower,"cover percentage for potentilla gracilis initially missing, filled with 15% difference between PV cover and species/ft.",Live Vegetation - Other Species,Other Forb ,5
+1317,UPTA: Taylor River Road Lower,"cover percentage for potentilla gracilis initially missing, filled with 15% difference between PV cover and species/ft.",Live Vegetation - Other Species,Other Graminoid ,15
+1317,UPTA: Taylor River Road Lower,"cover percentage for potentilla gracilis initially missing, filled with 15% difference between PV cover and species/ft.",Other Cover Types,Non-Photosynthetic Vegetation,30
+1318,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,25
+1318,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Orobanchaceae-Castilleja septentrionalis,10
+1318,UPTA: Taylor River Road Lower,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,10
+1318,UPTA: Taylor River Road Lower,Voucher ID: 9039,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,15
+1318,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Forb ,5
+1318,UPTA: Taylor River Road Lower,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1318,UPTA: Taylor River Road Lower,NA,Other Cover Types,Nonvegetated Dirt ,5
+1318,UPTA: Taylor River Road Lower,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1319,UPTA: Taylor River Road Lower,"cover for unknown 9052 initially missing, filled with 30% from difference between PV cover and species/FT cover.",Live Vegetation - Named Species,Polygonaceae-Rumex densiflorus,20
+1319,UPTA: Taylor River Road Lower,"cover for unknown 9052 initially missing, filled with 30% from difference between PV cover and species/FT cover.",Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,25
+1319,UPTA: Taylor River Road Lower,Voucher ID: 9052,Live Vegetation - Named Species,Poaceae-Elymus glaucus,30
+1319,UPTA: Taylor River Road Lower,"cover for unknown 9052 initially missing, filled with 30% from difference between PV cover and species/FT cover.",Live Vegetation - Other Species,Other Forb ,5
+1319,UPTA: Taylor River Road Lower,"cover for unknown 9052 initially missing, filled with 30% from difference between PV cover and species/FT cover.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1320,UPTA: Rocky Brook,Voucher ID: 9057,Live Vegetation - Named Species,Asteraceae-Antennaria corymbosa,45
+1320,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Agoseris glauca,15
+1320,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,15
+1320,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1320,UPTA: Rocky Brook,NA,Other Cover Types,Nonvegetated Dirt ,15
+1320,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1321,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,30
+1321,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,20
+1321,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1321,UPTA: Rocky Brook,NA,Other Cover Types,Nonvegetated Dirt ,30
+1321,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1322,UPTA: Rocky Brook,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Achillea millefolium,10
+1322,UPTA: Rocky Brook,Voucher ID: 9070,Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,55
+1322,UPTA: Rocky Brook,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,15
+1322,UPTA: Rocky Brook,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1322,UPTA: Rocky Brook,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,10
+1322,UPTA: Rocky Brook,"Initially summed to 95%, boosted photosynthetic cover by 5% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1323,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Poaceae-Deschampsia cespitosa,65
+1323,UPTA: Rocky Brook,Voucher ID: 9059,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,10
+1323,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,15
+1323,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1324,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,35
+1324,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Agoseris glauca,10
+1324,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,25
+1324,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1324,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1325,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,15
+1325,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Poaceae-Festuca thurberi,40
+1325,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,10
+1325,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1325,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1326,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,30
+1326,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,25
+1326,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1326,UPTA: Rocky Brook,NA,Other Cover Types,Nonvegetated Dirt ,20
+1326,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,20
+1327,UPTA: Rocky Brook,Voucher ID: 9058,Live Vegetation - Named Species,Salicaceae-Salix wolfii,25
+1327,UPTA: Rocky Brook,Voucher ID: 9069,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,15
+1327,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,45
+1327,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1327,UPTA: Rocky Brook,NA,Other Cover Types,Nonvegetated Dirt ,5
+1327,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1328,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Achillea millefolium,75
+1328,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,10
+1328,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1328,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1329,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,70
+1329,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1329,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1330,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Agoseris glauca,10
+1330,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,20
+1330,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,45
+1330,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,20
+1330,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1331,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Asteraceae-Cirsium scariosum,15
+1331,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,10
+1331,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,60
+1331,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1331,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1332,UPTA: Rocky Brook,Voucher ID: 9054,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,40
+1332,UPTA: Rocky Brook,Voucher ID: 9057,Live Vegetation - Named Species,Asteraceae-Antennaria corymbosa,15
+1332,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,10
+1332,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,15
+1332,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1332,UPTA: Rocky Brook,NA,Other Cover Types,Nonvegetated Dirt ,5
+1332,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1333,UPTA: Rocky Brook,Voucher ID: 9054,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,60
+1333,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,10
+1333,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1333,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1334,UPTA: Rocky Brook,Voucher ID: 9068,Live Vegetation - Named Species,Juncaceae-Juncus cf. drummondii,45
+1334,UPTA: Rocky Brook,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Live Vegetation - Named Species,Ranunculaceae-Caltha leptosepala,25
+1334,UPTA: Rocky Brook,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,10
+1334,UPTA: Rocky Brook,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,5
+1334,UPTA: Rocky Brook,"High-NDVI outlier, boosted PV cover by 20% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,15
+1335,UPTA: Rocky Brook,Voucher ID: 9054,Live Vegetation - Named Species,Cyperaceae-Carex aquatilis,70
+1335,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,5
+1335,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,25
+1336,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Rosaceae-Potentilla gracilis,10
+1336,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,70
+1336,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1336,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Moss/Lichen,5
+1336,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1337,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Polygonaceae-Rumex densiflorus,50
+1337,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,40
+1337,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1337,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1338,UPTA: Rocky Brook,Replaced text unknown with correct taxon label.,Live Vegetation - Named Species,Rosaceae-Sibbaldia procumbens,35
+1338,UPTA: Rocky Brook,Replaced text unknown with correct taxon label.,Live Vegetation - Other Species,Other Forb ,45
+1338,UPTA: Rocky Brook,Replaced text unknown with correct taxon label.,Live Vegetation - Other Species,Other Graminoid ,5
+1338,UPTA: Rocky Brook,Replaced text unknown with correct taxon label.,Other Cover Types,Nonvegetated Dirt ,5
+1338,UPTA: Rocky Brook,Replaced text unknown with correct taxon label.,Other Cover Types,Non-Photosynthetic Vegetation,10
+1339,UPTA: Rocky Brook,Voucher ID: 9067,Live Vegetation - Named Species,Fabaceae-Oxytropis deflexa,20
+1339,UPTA: Rocky Brook,NA,Live Vegetation - Named Species,Ericaceae-Vaccinium cespitosum,25
+1339,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Forb ,15
+1339,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1339,UPTA: Rocky Brook,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1339,UPTA: Rocky Brook,NA,Other Cover Types,Non-Photosynthetic Vegetation,30
+1340,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,15
+1340,UPTA: Taylor River Road Upper,Voucher ID: 9066,Live Vegetation - Named Species,Fabaceae-Astragalus alpinus,15
+1340,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1340,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1340,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Rock,5
+1340,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,50
+1341,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,15
+1341,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,15
+1341,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Apiaceae-Cymopterus lemmonii,10
+1341,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,10
+1341,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,15
+1341,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,30
+1341,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,15
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Antennaria rosea,10
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Solidago multiradiata,10
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,10
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Melanthiaceae-Anticlea elegans,10
+1342,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1342,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,30
+1342,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1343,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,25
+1343,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,25
+1343,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1343,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,30
+1343,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Rock,5
+1343,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,20
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Named Species,Fabaceae-Trifolium pratense,20
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Named Species,Rosaceae-Fragaria virginiana,10
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Named Species,Asteraceae-Solidago multiradiata,10
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Other Species,Other Forb ,20
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Live Vegetation - Other Species,Other Graminoid ,10
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Other Cover Types,Nonvegetated Dirt ,5
+1344,UPTA: Taylor River Road Upper,"species/ft initially summed less than PV, boosted other forb by 15% after reviewing photo.",Other Cover Types,Non-Photosynthetic Vegetation,5
+1345,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,35
+1345,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1345,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Dasiphora fruticosa,10
+1345,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1345,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1345,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,25
+1345,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1346,UPTA: Taylor River Road Upper,"Species/FT initially did not sum to equal PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,35
+1346,UPTA: Taylor River Road Upper,"Species/FT initially did not sum to equal PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1346,UPTA: Taylor River Road Upper,Voucher ID: 9071,Live Vegetation - Named Species,Cyperaceae-Carex geyeri,25
+1346,UPTA: Taylor River Road Upper,"Species/FT initially did not sum to equal PV cover, boosted other forb by 5% after reviewing plot photo.",Live Vegetation - Other Species,Other Forb ,10
+1346,UPTA: Taylor River Road Upper,"Species/FT initially did not sum to equal PV cover, boosted other forb by 5% after reviewing plot photo.",Other Cover Types,Non-Photosynthetic Vegetation,20
+1347,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla hippiana,25
+1347,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,10
+1347,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1347,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,20
+1347,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,35
+1348,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Polygonaceae-Eriogonum umbellatum,80
+1348,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1348,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1348,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1349,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,40
+1349,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,50
+1349,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,5
+1349,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1350,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Gentianaceae-Frasera speciosa,30
+1350,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,35
+1350,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1350,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,20
+1350,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,5
+1351,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Solidago multiradiata,30
+1351,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,25
+1351,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1351,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1351,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,25
+1351,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1352,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,30
+1352,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Rosaceae-Potentilla pulcherrima,15
+1352,UPTA: Taylor River Road Upper,Voucher ID: 9066,Live Vegetation - Named Species,Fabaceae-Astragalus alpinus,15
+1352,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1352,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Deciduous Shrub ,5
+1352,UPTA: Taylor River Road Upper,NA,Other Cover Types,Nonvegetated Dirt ,15
+1352,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1353,UPTA: Taylor River Road Upper,NA,Live Vegetation - Named Species,Asteraceae-Taraxacum officinale,15
+1353,UPTA: Taylor River Road Upper,Voucher ID: 9072,Live Vegetation - Named Species,Poaceae-Poa pratensis,25
+1353,UPTA: Taylor River Road Upper,Voucher ID: 9061,Live Vegetation - Named Species,Cyperaceae-Carex ebenea,30
+1353,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,10
+1353,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Graminoid ,10
+1353,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,10
+1354,UPTA: Taylor River Road Upper,Voucher ID: 9065,Live Vegetation - Named Species,Juncaceae-Juncus arcticus,75
+1354,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Forb ,5
+1354,UPTA: Taylor River Road Upper,NA,Live Vegetation - Other Species,Other Graminoid ,5
+1354,UPTA: Taylor River Road Upper,NA,Other Cover Types,Non-Photosynthetic Vegetation,15

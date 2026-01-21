@@ -1,0 +1,21 @@
+##  Field-collected attributes of meadow vegetation samples collected as part of the 2025 Colorado Headwaters Ecological Spectroscopy Study field campaign.			
+"## This dataset represents plot-level attributes of 1m^2 quadrats, collected in the field as a digital form using iForm software. Percent cover information was collected for all plant species with greater than 10% cover as well as other vegetated and non-vegetated cover categories, but this data is stored in a speparate table (""chess_meadow_cover_cleaned.csv""). This data has been QC'd for internal consistency and links to other datasets."			
+			
+Variable	Type	Unit	Explanation
+Location_Type	Categorical	None	Type of sample. Meadow=site with predominantly herbaceous vegetation or site with woody shrubs less than 0.5m tall. 
+Sampling_Area	Categorical	None	Name of general area that samples were collected.
+Site_Number	Integer	None	"Unique identifier for each sample, corresponding to the number of the metal tag affixed a stake at the corner of each plot."
+Collection_Date	Date	Days	"Calendar date of field data collection, DD/MM/YY format."
+Collection_Time	Time	Minutes	"Local time of field data collection (Mountain Daylight Time, America/Denver)."
+Vegetation_Cover	Numeric	Percentage	Percent horizontal cover of living green vegetation.
+Vegetation_Height_1	Numeric	Centimeters	Maximum height of photosynthetic vegetation in 1st quarter of plot.
+Vegetation_Height_2	Numeric	Centimeters	Maximum height of photosynthetic vegetation in 2nd quarter of plot.
+Vegetation_Height_3	Numeric	Centimeters	Maximum height of photosynthetic vegetation in  3rd quarter of plot.
+Vegetation_Height_4	Numeric	Centimeters	Maximum height of photosynthetic vegetation in 4th quarter of plot.
+Photo_Quadrat	Text	None	URL for top-down photo of plot.
+Photo_PFT_Table	Text	None	URL for photo of table with plant functional type cover.
+Photo_Landscape_North	Text	None	URL for photo of surrounding landscape facing North.
+Photo_Landscape_East	Text	None	URL for photo of surrounding landscape facing East.
+Photo_Landscape_South	Text	None	URL for photo of surrounding landscape facing South.
+Photo_Landscape_West	Text	None	URL for photo of surrounding landscape facing West.
+Cover_Notes	Text	None	Field notes and notes from data processing.

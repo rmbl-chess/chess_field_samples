@@ -1,0 +1,17 @@
+##  Field-collected attributes of shrub vegetation samples collected as part of the 2025 Colorado Headwaters Ecological Spectroscopy Study field campaign.			
+## This dataset represents plot-level attributes of shrubs (woody plants with canopies greater than 1m^2 and up to 3 m tall). Attribute data was collected in the field as a digital form using iForm software. This data has been QC'd for internal consistency and links to other datasets.			
+			
+Variable	Type	Unit	Explanation
+Location_Type	Categorical	None	type of sample. Shrub=woody plants with canopies greater than 1m^2 and up to 3 m tall.
+Sampling_Area	Categorical	None	Name of general area that samples were collected.
+Site_Number	Integer	None	"Unique identifier for each sample, corresponding to the number of the metal tag affixed a stake at the corner of each plot."
+Collection_Date	Date	Days	"Calendar date of field data collection, DD/MM/YY format."
+Collection_Time	Time	Minutes	"Local time of field data collection (Mountain Daylight Time, America/Denver)."
+Vegetation_Height	Numeric	Centimeters	Maximum height above ground of photosynthetic vegetation in sampled shrub crown.
+Vegetation_Species	Categorical	None	"Taxonomic species of sample, including family. References the ""Taxon_Label"" field in the ""chess_species_list_cleaned.csv"" dataset."
+Photo_Shrub	Text	None	URL link to photo of sampled shrub canopy.
+Photo_Landscape_North	Text	None	"URL link to photo of surrounding landscape, facing North."
+Photo_Landscape_East	Text	None	"URL link to photo of surrounding landscape, facing East."
+Photo_Landscape_South	Text	None	"URL link to photo of surrounding landscape, facing South."
+Photo_Landscape_West	Text	None	"URL link to photo of surrounding landscape, facing West."
+Shrub_Notes	Text	None	"Notes taken during data collection, sample processing, and QC."

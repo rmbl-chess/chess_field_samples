@@ -1,0 +1,11 @@
+## Species list for the Colorado Headwaters Ecological Spectroscopy study.			
+"## This dataset represents taxa referenced in field datasets collected as part of the CHESS campaign in June and July of 2025. All individuals were identified to species, and all species were referenced to GBIF accepted entities as of January 12th, 2026. This data was last updated on January 21st, 2026."			
+			
+Variable	Type	Units	Explanation
+Taxon_family	Text	None	"Taxonomic family, taken from the GBIF core taxonomy."
+Taxon_binomial	Text	None	Taxonomic binomial name used in field data collection and linked datasets.
+Taxon_label	Text	None	Combined family and taxonomic binomial used in field data collection and linked datasets.
+Taxon_full_name	Text	None	Complete accepted taxon name with authority information derived from the GBIF backbone taxonomy.
+GBIF_Taxon_ID	Integer	None	Unique identifier for taxon in GBIF.
+CHESS_Vouchers	Text	None	Identifiers for voucher specimens collected in the CHESS 2025 field campaign.
+Notes	Text	None	Taxon notes.

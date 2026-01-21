@@ -1,0 +1,10 @@
+## Species and functional type cover estimates for meadow samples collected in the field as part of the Colorado Headwaters Ecological Spectroscopy Study. 			
+"## This is a table that contains percent horizontal cover information for vegetation and non-vegetation categories. Plant species that have >=10% horizontal cover are identified to species, while plants with less than 10% cover are combined by functional group. This dataset is presented in ""long"" format (one cover estimate per row). Additional attributes collected in the field for each site is stored in a separate table (""chess_meadow_site_cleaned.csv"").  This data has been QC'd for internal consistency and links to other datasets."			
+			
+Variable	Type	Unit	Explanation
+Site_Number	Integer	None	"Unique identifier for each sample, corresponding to the number of the metal tag affixed a stake at the corner of each plot."
+Sampling_Area	Categorical	None	Name of general area that samples were collected.
+Notes	Text	None	Notes collected in the field or made during data processing and QC.
+Cover_Type	Categorical	None	"The general category of cover types. Live Vegetation - Named Species=cover types that correspond to a species with greater than 10% cover, and are thus individually named. Live Vegetation - Other Species=cover types of other species aggregated by functional type, Other Cover Types=Non-living or non-vegetated cover types."
+Cover_Class_Name	Categorical	None	"Non-vegetated dirt=cover of bare soil or small stones less than 1 cm^2. Non-vegetated rock=cover of mineral aggregations greater than 1 cm^2 and not covered by lichen or moss, Non-photosynthetic Vegetation=cover of stems, bark, dead leaves, flowers, or other non-photosynthetic plant parts."
+Cover_Percent	Numeric	Percentage	"Top-down horizontal cover estimate of each class. Cover  estimates are non-overlapping, and sum to 100% for each plot."
