@@ -15,6 +15,9 @@ about: data formatting and documentation
 **Describe the issue**
 A clear and concise description of what the issue or query is.
 
+**Files to which the issue applies**
+Add filepaths or urls to the relevant files
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
