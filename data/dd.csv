@@ -1,0 +1,71 @@
+column_or_row_name,unit,definition,data_type
+file_name,N/A,Name of the files in the dataset/data package.,text
+file_description,N/A,A brief description of the files in the dataset/data package.,text
+standard,N/A,Standard applied to the data file.,text
+column_or_row_name,N/A,Column or row name contained within a file.,text
+unit,N/A,Unit of column or row name within file.,text
+definition,N/A,Definition of column or row name.,text
+data_type,N/A,Type of data that the column or row contains.,text
+Location_Type,N/A,"Type of sample. ""Meadow"" = site with predominantly herbaceous vegetation or site with woody shrubs less than 0.5m tall. ""Shrub"" = woody plants with canopies greater than 1m^2 and up to 3 m tall. ""Tree"" = woody plants more than 3m tall and belonging to a pre-defined species list.",text
+Sampling_Area,N/A,Name of general area that samples were collected.,text
+Site_Number,N/A,"Unique identifier for each sample, corresponding to the number of the metal tag affixed a stake at the corner of each plot",numeric
+Collection_Date,N/A,"Calendar date of field data collection, DD/MM/YY format.",date
+Collection_Time,N/A,"Local time of field data collection (Mountain Daylight Time, America/Denver).",time
+Vegetation_Cover,percent,Percent horizontal cover of living green vegetation.,numeric
+Vegetation_Height_1,centimeters,Maximum height of photosynthetic vegetation in 1st quarter of plot.,numeric
+Vegetation_Height_2,centimeters,Maximum height of photosynthetic vegetation in 2nd quarter of plot.,numeric
+Vegetation_Height_3,centimeters,Maximum height of photosynthetic vegetation in  3rd quarter of plot.,numeric
+Vegetation_Height_4,centimeters,Maximum height of photosynthetic vegetation in 4th quarter of plot.,numeric
+Photo_Quadrat,N/A,URL for top-down photo of plot.,text
+Photo_PFT_Table,N/A,Relative path for photo of table with plant functional type cover.,text
+Photo_Landscape_North,N/A,Relative path for photo of surrounding landscape facing North.,text
+Photo_Landscape_East,N/A,Relative path for photo of surrounding landscape facing East.,text
+Photo_Landscape_South,N/A,Relative path for photo of surrounding landscape facing South.,text
+Photo_Landscape_West,N/A,Relative path for photo of surrounding landscape facing West.,text
+Cover_Notes,N/A,Field notes and notes from data processing.,text
+Notes,N/A,General notes field.,text
+Cover_Type,N/A,"The general category of cover types. ""Live Vegetation - Named Species"" = cover types that correspond to a species with greater than 10% cover, and are thus individually named. ""Live Vegetation - Other Species"" = cover types of other species aggregated by functional type. ""Other Cover Types"" = Non-living or non-vegetated cover types.",text
+Cover_Class_Name,N/A,"Cover class name. ""Non-vegetated dirt"" = cover of bare soil or small stones less than 1 cm^2. ""Non-vegetated rock"" = cover of mineral aggregations greater than 1 cm^2 and not covered by lichen or moss. ""Non-photosynthetic Vegetation"" = cover of stems, bark, dead leaves, flowers, or other non-photosynthetic plant parts.",text
+Cover_Percent,percent,"Top-down horizontal cover estimate of each class. Cover  estimates are non-overlapping, and sum to 100% for each plot.",numeric
+Vegetation_Height,centimeters,Maximum height above ground of photosynthetic vegetation in sampled shrub crown.,numeric
+Vegetation_Species,N/A,"Taxonomic species of sample, including family. References the ""Taxon_Label"" field in the ""chess_species_list_cleaned.csv"" dataset.",text
+Photo_Shrub,N/A,Relative path link to photo of sampled shrub canopy.,text
+Shrub_Notes,N/A,"Notes taken during data collection, sample processing, and QC.",text
+Cones_Present,N/A,Were there reproductive structures observed on the focal tree? (Yes/No).,text
+Stem_Height,meters,Maximum height of photosynthetic vegetation. Measured in the field with a hypsometer.,numeric
+Stem_DBH,centimeters,Diameter at breast height (1.3m) recorded with a DBH tape.,numeric
+Crown_Class,N/A,"Status of crown relative to the surrounding trees. 
+
+D = Dominant. These crowns extend above the general level of the canopy.  They receive full light from above and some light from the sides. Generally, they have the largest, fullest crowns in the stand. 
+
+C = Codominant. These crowns make up the general level of the canopy.  They receive direct light from above, but little or no light from the sides.  Generally they are shorter than the dominant trees.
+
+I = Intermediate. These crowns occupy a subordinate position in the canopy.  They receive some direct light from above, but no direct light from the sides.  Crowns are generally narrow and/or one-sided, and shorter than the dominant and codominant trees.
+
+S = Supressed. These crowns are below the general level of the canopy. They receive no direct light.  Crowns are generally short, sparse, and narrow.",text
+Health_Status,N/A,"Stature of tree. S=Standing, L=Leaning",text
+Damage_Mode,N/A,"Damage noted with mechanism. Breakage = Main stem break (e.g. from wind or another tree impact); Lightning = Crack or char scar down stem, or a cluster of dead trees; Bark beetle = Boreholes, “popcorn” sap blisters, galleries in cambium; Fungus or other disease = Visible fungal fruiting bodies on stem (e.g., aspen canker), clumps of dead, matted brown-black needles; Brooming = Thick branchlet growth that can be response to mistletoe or other agents; Budworm = Webbing or caterpillars, particularly in new needles (if >1% of needles are affected).",text
+Trunk_Wound,N/A,"Classification of observed wound severity. 0=none, 1=small wound, 2=medium wound, 3=large wound.",text
+Crown_Remaining,percentage,Proportion of original tree crown that was undamaged.,numeric
+Leaves_Remaining,percentage,Proportion of original tree leaves remaining in green state.,numeric
+Terrain_Aspect,degrees,"Direction of maximum slope, measured clockwise from North.",numeric
+Photo_Tag,N/A,Relative path of tree tag photo.,text
+Photo_Tree,N/A,Relative path of tree photo.,text
+Tree_Notes,N/A,Notes from field data collection or data processing.,text
+Taxon_family,N/A,"Taxonomic family, taken from the GBIF core taxonomy.",text
+Taxon_binomial,N/A,Taxonomic binomial name used in field data collection and linked datasets.,text
+Taxon_label,N/A,Combined family and taxonomic binomial used in field data collection and linked datasets.,text
+Taxon_full_name,N/A,Complete accepted taxon name with authority information derived from the GBIF backbone taxonomy.,text
+GBIF_Taxon_ID,N/A,Unique identifier for taxon in GBIF.,numeric
+CHESS_Vouchers,N/A,Identifiers for voucher specimens collected in the CHESS 2025 field campaign.,text
+Collected_date,N/A,"Date of field data collection, in DD/MM/YYYY format",date
+Sample_label,N/A,Identifer used to track voucher identity.,text
+Sampling_area,N/A,Abbreviation for the sampling area where a specimen was collected.,text
+Site_number_or_spp,N/A,"Unique number for field site (meadow, shrub, or tree).",numeric
+Entered_by,N/A,"Initials of person who input the sample into this table. IKB=Ian Breckheimer, HX=Hillary Xu.",text
+Determination_date,N/A,"Date of last taxonomic determination, in DD/MM/YYYY format.",date
+Taxon_Species,N/A,Taxonomic determination to the species level.,text
+Taxon_Family,N/A,Taxonomic family.,text
+Taxon_label,N/A,Combined family-species name used to link to other datasets.,text
+Key,N/A,Key used to make the taxonomic determination.,text
+ID_by,N/A,"Initials of the person making the final ID. CFW = Rick Williams, HX = Hillary Xu, WG = Willow Goetting, WB = Wendy Brown.",text
